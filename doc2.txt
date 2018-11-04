@@ -1,1 +1,1 @@
-Ram is a good boy. He plays cricket.
+This is a sample file. You can add text to be compared here.
